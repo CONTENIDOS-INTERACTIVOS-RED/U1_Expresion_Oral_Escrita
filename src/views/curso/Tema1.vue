@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Título tema'")
+  BannerInterno(:subTitulo="'1. Características de la comunicación asertiva.'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .bg-color-2.mb-5(data-aos="fade-up")
@@ -150,8 +150,8 @@
         p Desde los primeros años de escolaridad, el entorno influye en el bienestar de los alumnos. La interacción basada en la escucha y la validación de emociones contribuye a fortalecer la autoestima, permitiendo que los niños se sientan valorados.
         p.mb-5 Los principales efectos de esta comunicación en la seguridad emocional son:
 
-        .row.justify-content-center.align-items-stretch.mb-4
-          .col-lg-6
+        .row.justify-content-center.align-items-stretch.mb-3
+          .col-lg-6.mb-3
             .bg-color-2.p-4(data-aos="fade-left").h-100
               .row.align-items-center
                 .col-lg-auto
@@ -160,7 +160,7 @@
                   h5.mb-2 Lenguaje claro y afectuoso
                   p.mb-0 Genera confianza y seguridad al expresarse.
 
-          .col-lg-6
+          .col-lg-6.mb-3
             .bg-color-2.p-4(data-aos="fade-left").h-100
               .row.align-items-center
                 .col-lg-auto
@@ -170,7 +170,7 @@
                   p.mb-0 Favorece la autonomía en la resolución de problemas.
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-6
+      .col-lg-6.mb-3
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -178,7 +178,7 @@
             .col-lg
               h5.mb-2 Reducción de ansiedad y frustración
               p.mb-0 Disminuye comportamientos agresivos o de retraimiento.
-      .col-lg-6
+      .col-lg-6.mb-3
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -340,8 +340,8 @@
         .bg-color-5.p-4(data-aos="fade-left")
           p.mb-0 Esta habilidad se refleja en una mayor participación en actividades como <b>debates, exposiciones y trabajos en equipo.</b> Cuando los niños aprenden a expresar sus opiniones con seguridad y respeto, se sienten más motivados a intervenir en discusiones académicas sin temor a la crítica. A largo plazo, esto contribuye a la formación de individuos con capacidad de reflexión, análisis y comunicación efectiva en distintos ámbitos de su vida (Félix Valverde y Toledano Valentín, 2015).
 
-    .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-6
+    .row.justify-content-center.align-items-stretch.mb-3
+      .col-lg-6.mb-3
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -350,7 +350,7 @@
               h5.mb-2 Expresión asertiva	
               p.mb-0 Permite que los niños estructuren mejor sus ideas.
 
-      .col-lg-6
+      .col-lg-6.mb-3
         .bg-color-2.p-4(data-aos="fade-left").h-100
           .row.align-items-center
             .col-lg-auto
@@ -362,7 +362,7 @@
     .bg-full-width.bg-color-7.mb-5
       .px-4.px-md-5
         .row.justify-content-center.align-items-stretch.mb-5
-          .col-lg-6
+          .col-lg-6.mb-3
             .bg-color-2.p-4(data-aos="fade-left").h-100
               .row.align-items-center
                 .col-lg-auto
@@ -370,7 +370,7 @@
                 .col-lg
                   h5.mb-2 Escucha y análisis de argumentos	
                   p.mb-0 Favorece la reflexión antes de emitir juicios.
-          .col-lg-6
+          .col-lg-6.mb-3
             .bg-color-2.p-4(data-aos="fade-left").h-100
               .row.align-items-center
                 .col-lg-auto
