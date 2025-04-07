@@ -374,12 +374,12 @@ export default {
               {
                 id: 'b',
                 texto: 'Escucha activa',
-                esCorrecta: true,
+                esCorrecta: false,
               },
               {
                 id: 'c',
                 texto: 'Falta de contacto visual ',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'd',
